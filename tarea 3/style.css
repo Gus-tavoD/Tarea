@@ -1,0 +1,40 @@
+
+
+
+h1 {
+  color:brown;
+  text-align: center;
+}
+
+
+.par {
+    text-align: center;
+    color: white;
+}
+
+table tr th {
+  border: 1px solid black;
+}
+.bc {
+  background-color: rgb(244, 222, 201);
+}
+
+.center_text{
+  display: flexs;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.center_text > div {
+  justify-content: center;
+  align-items: center;
+}
+
+.bc-2 {
+  background-color: rgb(235, 220, 210);
+}
+
+.btn {
+  background-color: rgb(34, 37,41);
+  border: none;
+}
